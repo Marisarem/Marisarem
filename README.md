@@ -5,6 +5,7 @@
 
 - 🌱 I’m currently learning to develop activities with scratch.
 
+- My email address  is marisaremar@gmail.com
 
 <!---
 Marisarem/Marisarem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
