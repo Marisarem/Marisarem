@@ -1,11 +1,15 @@
-# About me 
-- 👋 Hi, I’m @Marisarem
+# About me    :smiley:   
+- 👋 Hi, I’m @Marisaremar
 
-- 👀 I’m interested in the programming language.
+- 👀 I’m interested in the [programing language](https://www.codecademy.com/resources/blog/programming-languages/)
+
 
 - 🌱 I’m currently learning to develop activities with scratch.
 
-- My email address  is marisaremar@gmail.com
+- My email address  is [email](marisaremar@gmail.com).
+ 
+ ![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+ ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 <!---
 Marisarem/Marisarem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
